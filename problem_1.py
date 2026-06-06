@@ -9,4 +9,4 @@
 
     return sum_3 + sum_5 - sum_15
    
- print(calculate_total_sum(1000))
+ print(calculate_total_sum(999))
